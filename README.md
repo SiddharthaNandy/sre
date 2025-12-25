@@ -35,7 +35,7 @@ List of functions used in sre_RD_run.R -
   mr_radial_basis.R; 
   mr_basis.R; 
       
-  ## Likelihood - Gradient - Fisher Information - Armijo line search - Group LASSO optimization -
+  ### Likelihood - Gradient - Fisher Information - Armijo line search - Group LASSO optimization -
   norm_cholesky.cpp; 
   Sigma_inv_det.cpp; 
   like_grad_info_j.cpp; 
@@ -43,7 +43,7 @@ List of functions used in sre_RD_run.R -
   armijo_line_update.cpp; 
   sre_grplasso_data.R; 
   
-  ## SRE Estimation -
+  ### SRE Estimation -
   sre_DOI_WR.R;
 
 
