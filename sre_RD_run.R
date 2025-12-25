@@ -167,7 +167,7 @@ SP = Y - ( mhat + tcrossprod( smooth_beta , TB1 ) )
 rm(model_sp)
 
 
-for(i in 22:100){ sre_DOI_WR( N=i , E = SP , RB = Rb , RBCond = Kappab ) }
+for(i in 1:100){ sre_DOI_WR( N=i , E = SP , RB = Rb , RBCond = Kappab ) }
 
 
 
