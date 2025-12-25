@@ -1,11 +1,11 @@
-spatial random effects selection
+spatial random effects estimation and selection
 
 Simulation Study :
 Users should call simulation_study.R to run simulation replication.
 
 List of functions used in simulation_study.R -
 
-  # Construction of Spatial locations, MR knots, and basis function -
+  ## Construction of Spatial locations, MR knots, and basis function -
   spatial_locations.R; 
   mr_knots.R; 
   mr_radial_basis.R; 
