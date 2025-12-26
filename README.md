@@ -1,6 +1,7 @@
 spatial random effects estimation and selection
 
-## Simulation Study : Users should call simulation_study.R to run simulation replication.
+## Simulation Study : 
+Users should call simulation_study.R to run simulation replication.
 
 List of functions used in simulation_study.R -
 
@@ -26,7 +27,8 @@ List of functions used in simulation_study.R -
   ### SRE Estimation -
   sre_estimation.R;
 
-## Real Data study: Users should call sre_RD_run.R to run simulation replication.
+## Real Data study: 
+Users should call sre_RD_run.R to run simulation replication.
 
 List of functions used in sre_RD_run.R -
 
