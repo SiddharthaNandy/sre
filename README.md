@@ -1,4 +1,4 @@
-spatial random effects selection and  estimation
+spatial random effects selection and estimation
 
 ## Simulation Study : 
 Users should call simulation_study.R to run simulation replication.
